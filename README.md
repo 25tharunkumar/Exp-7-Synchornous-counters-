@@ -93,7 +93,8 @@ endmodule
 
 
 
-DOWN COUNTER
+DOWN COUNTER ![image](https://user-images.githubusercontent.com/123470785/214356284-f9279e8a-f484-4aaa-a81b-56d93b834775.png)
+
 
 
 
