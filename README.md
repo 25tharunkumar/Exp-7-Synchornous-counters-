@@ -121,7 +121,8 @@ DOWN COUNTER
 
 
 
-### TRUTH TABLE UP COUNTER
+### TRUTH TABLE UP COUNTER ![image](https://user-images.githubusercontent.com/123470785/214364611-873a05cf-c444-4f7b-8c97-4af81e68557b.png)
+
 
 
 DOWN COUNTER
