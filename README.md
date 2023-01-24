@@ -89,7 +89,8 @@ endmodule
 
 
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  UP COUNTER
+### RTL LOGIC UP COUNTER AND DOWN COUNTER  UP COUNTER ![image](https://user-images.githubusercontent.com/123470785/214356048-a8b3c53a-3f65-422d-8de5-b57826abbe4f.png)
+
 
 
 DOWN COUNTER
